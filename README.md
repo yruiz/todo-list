@@ -1,7 +1,5 @@
 # A todo list
-
-A Todolist I created following a tutotial from Python Engineer on YouTube.
-I added a few modifications like not being able to add an empty todo entry, and hope to coninue adding more.
+## Description
 The backend uses Flask, SQLite with SQLAlchemy, and Python. The front end uses HTML and the SemanticUI Componenet Framework. 
 
 ## Installing project using Poetry:
@@ -12,4 +10,7 @@ The backend uses Flask, SQLite with SQLAlchemy, and Python. The front end uses H
 5. Activate the virtual enviorment: .venv\Scripts\activate
 6. This will run it in the development enviorment: python app.py
 
-
+### Addition information
+This Todo list was created following a tutorial from Python Engineer on YouTube.
+One of the modifications I did was not allowing a user to add an empty todo task.
+I hope to coninue adding more to make it my own.
