@@ -1,6 +1,16 @@
 # A todo list
+
 ## Description
-The backend uses Flask, SQLite with SQLAlchemy, and Python. The front end uses HTML and the SemanticUI Componenet Framework. 
+The backend uses Flask, SQLite with SQLAlchemy, and Python. 
+The front end uses HTML and the SemanticUI Componenet Framework. 
+
+### Features
+This is a CRUD app.
+    - You can create one or many task to add to your list.
+    - Pressing update change the status label from incomplete to complete with a green label background
+    - You can undo the status by pressing update again
+    - You can delete the task regardless if you have completed it or not.
+ 
 
 ## Installing project using Poetry:
 1. You should have Poetry and Python(3.10) installed  
@@ -14,3 +24,8 @@ The backend uses Flask, SQLite with SQLAlchemy, and Python. The front end uses H
 This Todo list was created following a tutorial from Python Engineer on YouTube.
 One of the modifications I did was not allowing a user to add an empty todo task.
 I hope to coninue adding more to make it my own.
+
+
+<div style="text-align: center;">
+![Todo List Image](img/todo-list.png)
+</div>
