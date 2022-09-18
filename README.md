@@ -26,6 +26,4 @@ One of the modifications I did was not allowing a user to add an empty todo task
 I hope to coninue adding more to make it my own.
 
 
-<div style="text-align: center;">
-![Todo List Image](img/todo-list.png)
-</div>
+<img src="img\todo-list.png" width="100" height="100">
